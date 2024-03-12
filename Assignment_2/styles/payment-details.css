@@ -1,0 +1,115 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.payment-details-o2U {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(180deg, #f74b4b -0%, #999999 100%);
+}
+.payment-details-o2U .frame-8-M3z {
+  width: 100%;
+  height: 14.4rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #310808;
+  flex-shrink: 0;
+}
+.payment-details-o2U .frame-8-M3z .logo-hNk {
+  width: 17.1rem;
+  height: 8rem;
+  position: absolute;
+  left: 3.6rem;
+  top: 3.2rem;
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Arbutus, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.payment-details-o2U .frame-8-M3z .home-about-menu-serivices-testmanial-book-a-table-contact-CaQ {
+  width: 105.5rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 33.3rem;
+  top: 6.9rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Arbutus, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.payment-details-o2U .frame-8-M3z .frame-7-VJc {
+  box-sizing: border-box;
+  padding: 3.2rem 5.2rem 3.2rem 3.6rem;
+  width: 144rem;
+  height: 14.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  background-color: #310808;
+}
+.payment-details-o2U .frame-8-M3z .frame-7-VJc .logo-bsS {
+  margin-right: 12.6rem;
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Arbutus, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.payment-details-o2U .frame-8-M3z .frame-7-VJc .home-about-menu-serivices-testmanial-book-a-table-contact-La8 {
+  margin-top: 1.9rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Arbutus, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.payment-details-o2U .auto-group-w6ny-q16 {
+  box-sizing: border-box;
+  padding: 10.8rem 17.3rem 56.1rem 17.3rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.payment-details-o2U .auto-group-w6ny-q16 .rectangle-51-wZv {
+  margin: 0rem 26.6rem 4.7rem 0rem;
+  width: 82.8rem;
+  height: 8.2rem;
+  background-color: rgba(217, 217, 217, 0.3000000119);
+  flex-shrink: 0;
+}
+.payment-details-o2U .auto-group-w6ny-q16 .rectangle-52-rB6 {
+  margin-right: 26.6rem;
+  width: 82.8rem;
+  height: 8.2rem;
+  background-color: rgba(217, 217, 217, 0.3000000119);
+  flex-shrink: 0;
+}

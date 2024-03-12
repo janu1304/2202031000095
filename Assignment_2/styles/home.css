@@ -1,0 +1,82 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 143.9rem;
+}.home-tAY {
+  box-sizing: border-box;
+  padding: 0rem 0rem 77.9rem 0.7rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/home-bg.png');
+}
+.home-tAY .frame-8-1kx {
+  margin-bottom: 23.1rem;
+  box-sizing: border-box;
+  padding: 3.2rem 5.2rem 3.2rem 3.6rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #310808;
+  flex-shrink: 0;
+}
+.home-tAY .frame-8-1kx .logo-XjJ {
+  margin-right: 12.6rem;
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Arbutus, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-tAY .frame-8-1kx .home-about-menu-serivices-testmanial-book-a-table-contact-Tsr {
+  margin-top: 1.9rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Arbutus, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-tAY .delicious-food-zone-m7r {
+  margin: 0rem 3.1rem 1.7rem 0rem;
+  font-size: 9.6rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Arbutus, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-tAY .there-are-many-variations-of-passages-of-lorem-ipsum-available-but-the-majority-have-suffered-alteration-in-some-form-by-injected-humour-or-randomised-words-which-dont-look-even-slightly-believable-5uE {
+  margin-right: 4.3rem;
+  max-width: 111.7rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.39;
+  color: #ffffff;
+  font-family: Architects Daughter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
